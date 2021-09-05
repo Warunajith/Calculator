@@ -23,7 +23,7 @@ public class Main {
 
 
         UI ui=new UI();
-        ui.showMessege("The rusult is"+ result);
+        ui.showMessege("The rusult is "+ result);
     }
 
 }
