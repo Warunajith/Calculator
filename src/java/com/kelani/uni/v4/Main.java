@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.sql.SQLOutput;
 
 public class Main {
-
+// Liskov Substitution Principle
     public static void main(String[] args) throws IOException {//Kinda wrong
 
         //Main class is coordinator
