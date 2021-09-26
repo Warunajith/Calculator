@@ -1,5 +1,5 @@
 package com.kelani.uni.v5.input;
 
 public interface Inputs {
-    String getOperator();
+    String getOperator() throws InvalidInvaliException;
 }
